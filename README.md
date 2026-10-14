@@ -1,2 +1,2 @@
 # Git-GitHub
-just create 
+Here i will explain the usage of Git hub.
